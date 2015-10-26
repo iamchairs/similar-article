@@ -1,0 +1,19 @@
+{
+  "name": "similar-article",
+  "version": "1.0.0",
+  "description": "Gives you a similarity score between two articles based on keyword density.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamchairs/similar-article.git"
+  },
+  "author": "Micah Williamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchairs/similar-article/issues"
+  },
+  "homepage": "https://github.com/iamchairs/similar-article#readme"
+}
