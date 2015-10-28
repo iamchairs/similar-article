@@ -1,22 +1,7 @@
 similar-article
 ---------------
 
-Experimental simple article similarity algorithm
+**moved to relevant-article**
 
-
-## Install
-
-```
-  npm install similar-article
-```
-
-## Use
-
-```
-var SimilarArticle = require('similar-article');
-console.log(SimilarArticle.compare(string1, string2)); // number between 0 - 1
-```
-
-## Description
-
-Uses word frequency to determine if two articles are about similar or same topics.
+https://www.npmjs.com/package/relevant-article
+https://github.com/iamchairs/relevant-article
