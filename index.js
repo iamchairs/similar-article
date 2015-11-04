@@ -23,10 +23,7 @@ module.exports = (function() {
   function SimilarArticle() {
     var self = this;
 
-    this.compare = function(str1, str2) {
-      var a1 = self.processString(str1);
-      var a2 = self.processString(str2);
-
+    this.compare = function(a1, a2) {
       var a1Words = [];
       var a1TopWords = [];
       var a2Words = [];
