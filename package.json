@@ -1,6 +1,6 @@
 {
   "name": "similar-article",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gives you a similarity score between two articles based on keyword density.",
   "main": "index.js",
   "scripts": {
